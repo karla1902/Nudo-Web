@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Nudo Web", "Proyecto Nudo Web\Proyecto Nudo Web.csproj", "{FFFA63E3-0A3D-4318-811C-03282C2606F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFA63E3-0A3D-4318-811C-03282C2606F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFA63E3-0A3D-4318-811C-03282C2606F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFA63E3-0A3D-4318-811C-03282C2606F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFA63E3-0A3D-4318-811C-03282C2606F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9384EB6E-22CC-43DF-B997-B92937DE7BEE}
+	EndGlobalSection
+EndGlobal
